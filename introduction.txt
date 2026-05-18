@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Exornam Fiagbenu. I am learning Linux, Git, and GitHub as part of my software engineering studies. I enjoy learning new technical skills and improving my understanding of version control systems.
+
+I hope to become better at collaboration, scripting, and software development through consistent practice and projects.
